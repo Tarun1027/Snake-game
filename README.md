@@ -1,2 +1,2 @@
 # Snake-game
-Snake game with the help of basics of java script and html.
+Snake game with the help  of java script and html.
