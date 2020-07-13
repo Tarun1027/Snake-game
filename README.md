@@ -1,2 +1,2 @@
 # Snake-game
-Snake game with the help  of javascript and html.
+Snake game with the help  of javascript and HTML.
