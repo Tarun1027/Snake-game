@@ -1,2 +1,2 @@
 # Snake-game
-I have made the game using HTML and Java Script
+I have made the game using HTML and JavaScript.
