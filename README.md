@@ -1,3 +1,3 @@
 # Snake-game
 
-I have made the game using HTML and Java Scrpit.
+I have made the game using basics of HTML and Java Scrpit.
