@@ -1,3 +1,2 @@
 # Snake-game
-
-I have made this game using basics of HTML and Java Scrpit.
+This game is coded in HTML and Java Scrpit.
